@@ -1,0 +1,7 @@
+{
+  "name": "行成",
+  "description": "Gamify Life; Surprises in Life. A Location-Based Service (LBS) game prototype.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
